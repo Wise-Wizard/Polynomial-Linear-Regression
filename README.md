@@ -1,2 +1,2 @@
 # Polynomial-Linear-Regression
-Predicts the Salary of an interviewee based on his position and tenure in the old company.
+Predicts the Salary of an interviewee based on his Position and Tenure in previous Organization.
